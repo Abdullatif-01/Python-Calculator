@@ -39,7 +39,9 @@ python calculator.py
 
 ## Project Structure
 
-* calculator.py
+* calculator.py → Main Python file
+* screenshot.png → GUI screenshot of the calculator
+* README.md → Project documentation
 
 ## Future Improvements
 
