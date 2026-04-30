@@ -39,7 +39,7 @@ python calculator.py
 
 ## Project Structure
 
-* `calculator.py` → Main file containing the calculator logic and GUI
+* calculator.py
 
 ## Future Improvements
 
