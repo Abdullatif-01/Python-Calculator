@@ -5,7 +5,7 @@ It provides a graphical interface for performing basic arithmetic operations.
 
 ## Screenshot
 
-![Calculator Screenshot](screenshot.png)
+![Calculator Screenshot](calculator.png)
 
 ## Features
 
